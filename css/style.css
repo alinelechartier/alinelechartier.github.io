@@ -1,0 +1,21 @@
+.profile-pic{
+max-width: 100%
+}
+
+.nav {
+	background-color:#002d60
+}
+
+body {
+ background-image: url(../img/Wallpaper.jpg);
+ background-repeat: no-repeat ;
+ background-size:cover;
+}
+
+nav {
+margin-bottom:20px;
+}
+
+.navbar {
+	background-color: #5ACAFF;
+}
